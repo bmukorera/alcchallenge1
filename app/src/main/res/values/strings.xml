@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlcChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_profile">MyProfileActivity</string>
+    <string name="track_android">Track: Android</string>
+    <string name="brighton_mukorera">Brighton Mukorera</string>
+    <string name="country_zimbabwe">Country: Zimbabwe</string>
+    <string name="email_bmukorera_gmail_com">Email: bmukorera@gmail.com</string>
+    <string name="phone_number_00263772197245">Phone Number: 00263772197245</string>
+    <string name="slack_username_bmukorera">Slack Username: @bmukorera</string>
+    <string name="my_profile_image">my profile image</string>
+    <string name="acl_android_challenge_1">ALC ANDROID CHALLENGE 1</string>
+    <string name="about_acl">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+</resources>
